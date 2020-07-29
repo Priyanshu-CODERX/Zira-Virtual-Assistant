@@ -1,4 +1,5 @@
 # Zira-Virtual-Assistant
+# This Can Be Used Offline
 This is a very simple Virtual Assistant that helps me in my daily tasks.
 
 # 													                COMMANDS:
@@ -32,3 +33,4 @@ This is a very simple Virtual Assistant that helps me in my daily tasks.
   
    googlesearch ~ pip install google
 
+# NOTE : Speech Recognition Will Also Be Added
