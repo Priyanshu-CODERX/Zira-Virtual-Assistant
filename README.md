@@ -1,6 +1,5 @@
 # Zira-Virtual-Assistant
 This is a very simple Virtual Assistant that helps me in my daily tasks.
-# -------------------------------------------------------------------------------------------------------------
 
 # 													                COMMANDS:
 
@@ -14,15 +13,21 @@ This is a very simple Virtual Assistant that helps me in my daily tasks.
 	 ~ Time ~ It will show you the current time and date
 	 ~ Quit ~ Quit's the script
 
-# -------------------------------------------------------------------------------------------------------------
 
 # Modules Used:
   pyttsx3 ~ pip install pyttsx3
+  
   os
+  
   datetime
+  
   time
+  
   wikipedia ~ pip install wikipedia
+  
   import webbrowser ~ pip install webbrowser
+  
   import requests ~ pip install requests
+  
   googlesearch ~ pip install google
 
