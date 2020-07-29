@@ -47,7 +47,7 @@ def greet(): # To Greet User According To Time
 def weatherReports(): # Tells you the weather of your city
 	# https://openweathermap.org/ checkout this link for more details on this
 	try:
-		api_key = '41d7ae5c3e4678d1369d90a714fd3377' # Put your own access key/api key
+		api_key = '' # Put your own access key/api key
 		# Get your API key from https://openweathermap.org/
 		Say('Sir, Please enter your city name')
 		city = input('City Name: ')
