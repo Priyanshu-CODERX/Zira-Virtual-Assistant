@@ -12,22 +12,23 @@ This is a very simple Virtual Assistant that helps me in my daily tasks.
 	 ~ Quote ~ It would generate a quote for you
 	 ~ Time ~ It will show you the current time and date
 	 ~ Quit ~ Quit's the script
+	 ~ Code ~ Opens Visual Studio Code
 
 
 # Modules Used:
-  pyttsx3 ~ pip install pyttsx3
+  ~ pyttsx3 ~ pip install pyttsx3
   
-  os
+  ~ os
   
-  datetime
+  ~ datetime
   
-  time
+  ~ time
   
-  wikipedia ~ pip install wikipedia
+  ~ wikipedia ~ pip install wikipedia
   
-  webbrowser ~ pip install webbrowser
+  ~ webbrowser ~ pip install webbrowser
   
-  requests ~ pip install requests
+  ~ requests ~ pip install requests
   
-  googlesearch ~ pip install google
+  ~ googlesearch ~ pip install google
 
