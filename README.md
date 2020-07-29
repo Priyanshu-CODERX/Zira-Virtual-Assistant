@@ -16,19 +16,19 @@ This is a very simple Virtual Assistant that helps me in my daily tasks.
 
 
 # Modules Used:
-  ~ pyttsx3 ~ pip install pyttsx3
+   pyttsx3 ~ pip install pyttsx3
   
-  ~ os
+   os
   
-  ~ datetime
+   datetime
   
-  ~ time
+   time
   
-  ~ wikipedia ~ pip install wikipedia
+   wikipedia ~ pip install wikipedia
   
-  ~ webbrowser ~ pip install webbrowser
+   webbrowser ~ pip install webbrowser
   
-  ~ requests ~ pip install requests
+   requests ~ pip install requests
   
-  ~ googlesearch ~ pip install google
+   googlesearch ~ pip install google
 
