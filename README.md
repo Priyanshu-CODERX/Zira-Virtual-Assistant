@@ -27,7 +27,7 @@ This is a very simple Virtual Assistant that helps me in my daily tasks.
   
    wikipedia ~ pip install wikipedia
   
-   webbrowser ~ pip install webbrowser
+   webbrowser
   
    requests ~ pip install requests
   
