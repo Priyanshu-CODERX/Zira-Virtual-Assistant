@@ -19,7 +19,7 @@ import os
 import datetime
 import time
 import wikipedia as wk # pip install wikipedia
-import webbrowser # pip install webbrowser
+import webbrowser
 import requests # pip install requests
 from googlesearch import search # pip install google
 
